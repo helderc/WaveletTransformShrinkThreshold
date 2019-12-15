@@ -1,3 +1,12 @@
+% ------------------------------------------------------------------------------
+%
+% Author: Helder C. R. Oliveira 
+%
+% Copyright (c) Helder Oliveira, 2015
+% Email: heldercro@gmail.com
+%
+% ------------------------------------------------------------------------------
+
 function [cA, cH, cV, cD, tams] = wavelet_dec(img, levels, wavename)
 
     % Approximation

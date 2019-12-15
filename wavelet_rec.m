@@ -1,3 +1,12 @@
+% ------------------------------------------------------------------------------
+%
+% Author: Helder C. R. Oliveira 
+%
+% Copyright (c) Helder Oliveira, 2015
+% Email: heldercro@gmail.com
+%
+% ------------------------------------------------------------------------------
+
 function img = wavelet_rec(cA, cH, cV, cD, levels, wavename, tams)
 
     % Get the LAST aproximation

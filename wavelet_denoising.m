@@ -1,3 +1,12 @@
+% ------------------------------------------------------------------------------
+%
+% Author: Helder C. R. Oliveira 
+%
+% Copyright (c) Helder Oliveira, 2015
+% Email: heldercro@gmail.com
+%
+% ------------------------------------------------------------------------------
+
 function [ img_out ] = wavelet_denoising(img, factor)
 
     wave_name = 'db4';
